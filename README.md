@@ -31,7 +31,7 @@ Second-year Computer Science student passionate about object-oriented design, ga
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=faideleon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faideleonE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faideleon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
 ---
