@@ -1,14 +1,14 @@
-# Hi there! I'm Faisal Khan 👋
+# Hi there! I'm Faisal Khan 
 
 Second-year Computer Science student passionate about object-oriented design, game systems, and clean software architecture. Currently bridging the gap between academic fundamentals and production-ready engineering standards.
 
 ---
 
-### 🔭 What I'm Working On
+### What I'm Working On
 
-- 🛡️ **Java RPG Combat Engine** — Building a modular, turn-based combat system emphasizing design patterns and extensible software architecture.
-- 🛠️ **GitHub Activity CLI** — Developing a lightweight command-line tool to track and display user activity feeds.
-- 🎮 **Unity & C# Mechanics** — Exploring gameplay systems, object lifecycle management, and performance-friendly code.
+-  **Java RPG Combat Engine** — Building a modular, turn-based combat system emphasizing design patterns and extensible software architecture.
+-  **GitHub Activity CLI** — Developing a lightweight command-line tool to track and display user activity feeds.
+-  **Unity & C# Mechanics** — Exploring gameplay systems, object lifecycle management, and performance-friendly code.
 
 ---
 
@@ -28,7 +28,7 @@ Second-year Computer Science student passionate about object-oriented design, ga
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=faideleon&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="49%" />
@@ -37,8 +37,8 @@ Second-year Computer Science student passionate about object-oriented design, ga
 
 ---
 
-### 🤝 Let's Connect
+###  Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 📧 **Email:** your.email@example.com
-- 🌐 **Portfolio / Blog:** [yourportfolio.dev](https://yourportfolio.dev)
+-  **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+-  **Email:** your.email@example.com
+-  **Portfolio / Blog:** [yourportfolio.dev](https://yourportfolio.dev)
