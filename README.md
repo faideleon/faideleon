@@ -1,44 +1,19 @@
-# Hey, I'm Faisal.
+<img src="assets/header.svg" width="100%" alt="faisal khan. Software developer from the Philippines. Writes Java, C#, JavaScript, HTML and CSS, and Prolog. Building a GitHub activity CLI and a turn-based combat engine." />
 
-**Software developer** from the Philippines. Professional bug relocator.
+Hey, I'm Faisal. I write **Java** when I want structure, **JavaScript** when I want chaos, and **C#** when I want to make a game instead of doing what I'm supposed to be doing. Underneath all of it, I care about the architecture: code that reads as clearly as it runs.
 
-I write **Java** when I want structure, **JavaScript** when I want chaos, and **C#** when I want to make a game instead of doing what I'm supposed to be doing. Underneath all of it, I care about the architecture: code that reads as clearly as it runs, ideally on the first try. (It rarely runs on the first try.)
+<img src="assets/label-made.svg" width="100%" alt="Things I've made" />
 
-[Portfolio](https://faideleon.github.io/Portfolio/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/faisal-khan-922282423/)
+<a href="https://github.com/faideleon/PARA---Transportation-GPS"><img src="assets/project-para.svg" width="100%" alt="PARA: untangling Philippine transportation, one route at a time." /></a>
+<a href="https://github.com/faideleon/Medical-Triage-using-Prolog"><img src="assets/project-triage.svg" width="100%" alt="Medical Triage: Prolog reasoning behind an HTML, CSS and JavaScript frontend." /></a>
+<a href="https://github.com/faideleon/web-based-chess-game"><img src="assets/project-chess.svg" width="100%" alt="Web Chess: chess in the browser, built from scratch." /></a>
+<a href="https://github.com/faideleon/CLI-Task-Tracker"><img src="assets/project-tasks.svg" width="100%" alt="Task Tracker: a Java to-do list for the terminal." /></a>
+<a href="https://github.com/faideleon/Programming-Language-Evolution-Based-Game"><img src="assets/project-evolution.svg" width="100%" alt="Language Evolution: a 2D C# game from punch cards to high-level languages." /></a>
 
-<br/>
+<img src="assets/label-stack.svg" width="100%" alt="What I reach for" />
 
-### Currently
+<img src="assets/stack.svg" width="100%" alt="Java, C#, JavaScript, HTML, CSS, Prolog, Git, terminal" />
 
-Building a **GitHub Activity CLI**, because opening a browser to check what someone pushed felt like too much work. Also building a **turn-based combat engine** in Java, which is just design patterns wearing armor.
+Where I'm headed: building software real people use every day, the kind that makes everyday problems a little smaller, especially the ones close to home.
 
-<br/>
-
-### Things I've made
-
-**[PARA](https://github.com/faideleon/PARA---Transportation-GPS)**<br/>
-If you've ever commuted here, you know. A small attempt at untangling transportation in the Philippines, one route at a time.
-
-**[Medical Triage](https://github.com/faideleon/Medical-Triage-using-Prolog)**<br/>
-Prolog does the thinking, HTML, CSS and JavaScript do the talking. Yes, Prolog. On purpose.
-
-**[Web Chess](https://github.com/faideleon/web-based-chess-game)**<br/>
-Chess in the browser, built from scratch. Writing the rules turned out to be harder than following them.
-
-**[Task Tracker](https://github.com/faideleon/CLI-Task-Tracker)**<br/>
-A Java to-do list for the terminal, for people who'd rather type `add` than click a button.
-
-**[Programming Language Evolution](https://github.com/faideleon/Programming-Language-Evolution-Based-Game)**<br/>
-A 2D top-down side quest in C#: walk from punch cards to high-level languages and be grateful you were born later.
-
-<br/>
-
-### Where I'm headed
-
-Toward building software that real people use every day, and that makes everyday problems a little smaller, especially the ones close to home. Learning something new every week until then.
-
-<br/>
-
----
-
-<sub>Want to build something, or just talk code? Find me on <a href="https://www.linkedin.com/in/faisal-khan-922282423/">LinkedIn</a> or poke around my <a href="https://faideleon.github.io/Portfolio/">portfolio</a>.</sub>
+<a href="https://faideleon.github.io/Portfolio/"><img src="assets/btn-portfolio.svg" height="50" alt="Portfolio" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/faisal-khan-922282423/"><img src="assets/btn-linkedin.svg" height="50" alt="LinkedIn" /></a>
