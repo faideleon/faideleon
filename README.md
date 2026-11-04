@@ -1,19 +1,9 @@
-<img src="cards/header.svg" width="100%" alt="faisal khan. Software developer from the Philippines. Writes Java, C#, JavaScript, HTML and CSS, and Prolog. Building a GitHub activity CLI and a turn-based combat engine." />
+<img src="route/header.svg" width="100%" alt="Faisal Khan. Software developer from the Philippines. Daily languages: Java, C#, JavaScript and Prolog." />
 
-Hey, I'm Faisal. I write **Java** when I want structure, **JavaScript** when I want chaos, and **C#** when I want to make a game instead of doing what I'm supposed to be doing. Underneath all of it, I care about the architecture: code that reads as clearly as it runs.
+I write Java when I want structure, JavaScript when I want chaos, and C# when I'd rather build a game than do what I'm supposed to be doing. Whatever the language, I care about what's underneath: code that reads as clearly as it runs, on the second or third try.
 
-<img src="cards/label-made.svg" width="100%" alt="Things I've made" />
+<img src="route/route.svg" width="100%" alt="Route map of my projects: PARA, Medical Triage, Web Chess, Task Tracker, and Language Evolution on a side quest line. Under construction: a GitHub Activity CLI and a turn-based combat engine. Next stop: software people use every day." />
 
-<a href="https://github.com/faideleon/PARA---Transportation-GPS"><img src="cards/project-para.svg" width="100%" alt="PARA: untangling Philippine transportation, one route at a time." /></a>
-<a href="https://github.com/faideleon/Medical-Triage-using-Prolog"><img src="cards/project-triage.svg" width="100%" alt="Medical Triage: Prolog reasoning behind an HTML, CSS and JavaScript frontend." /></a>
-<a href="https://github.com/faideleon/web-based-chess-game"><img src="cards/project-chess.svg" width="100%" alt="Web Chess: chess in the browser, built from scratch." /></a>
-<a href="https://github.com/faideleon/CLI-Task-Tracker"><img src="cards/project-tasks.svg" width="100%" alt="Task Tracker: a Java to-do list for the terminal." /></a>
-<a href="https://github.com/faideleon/Programming-Language-Evolution-Based-Game"><img src="cards/project-evolution.svg" width="100%" alt="Language Evolution: a 2D C# game from punch cards to high-level languages." /></a>
+Hop on at any stop: [PARA](https://github.com/faideleon/PARA---Transportation-GPS), [Medical Triage](https://github.com/faideleon/Medical-Triage-using-Prolog), [Web Chess](https://github.com/faideleon/web-based-chess-game), [Task Tracker](https://github.com/faideleon/CLI-Task-Tracker) or [Language Evolution](https://github.com/faideleon/Programming-Language-Evolution-Based-Game).
 
-<img src="cards/label-stack.svg" width="100%" alt="What I reach for" />
-
-<img src="cards/stack.svg" width="100%" alt="Java, C#, JavaScript, HTML, CSS, Prolog, Git, terminal" />
-
-Where I'm headed: building software real people use every day, the kind that makes everyday problems a little smaller, especially the ones close to home.
-
-<a href="https://faideleon.github.io/Portfolio/"><img src="cards/btn-portfolio.svg" width="27%" alt="Portfolio" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/faisal-khan-922282423/"><img src="cards/btn-linkedin.svg" width="27%" alt="LinkedIn" /></a>
+<a href="https://faideleon.github.io/Portfolio/"><img src="route/ticket-portfolio.svg" width="44%" alt="See my portfolio" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/faisal-khan-922282423/"><img src="route/ticket-linkedin.svg" width="44%" alt="Say hi on LinkedIn" /></a>
