@@ -1,0 +1,40 @@
+name: Contribution snake
+
+# Generates the black & white contribution-graph snake shown in README.md
+# and publishes it to the `output` branch (the README reads it from there).
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
+  workflow_dispatch:       # run it by hand from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Monochrome palette matching the README: 5 dot shades (0 -> most
+          # contributions) and the snake colour, one file per GitHub theme.
+          outputs: |
+            dist/snake-light.svg?color_snake=#0A0A0A&color_dots=#EEEEEE,#D4D4D4,#A3A3A3,#737373,#0A0A0A
+            dist/snake-dark.svg?color_snake=#FFFFFF&color_dots=#161B22,#2E2E2E,#525252,#A3A3A3,#FFFFFF
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
