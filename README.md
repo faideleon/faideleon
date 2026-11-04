@@ -16,4 +16,4 @@ Hey, I'm Faisal. I write **Java** when I want structure, **JavaScript** when I w
 
 Where I'm headed: building software real people use every day, the kind that makes everyday problems a little smaller, especially the ones close to home.
 
-<a href="https://faideleon.github.io/Portfolio/"><img src="assets/btn-portfolio.svg" height="50" alt="Portfolio" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/faisal-khan-922282423/"><img src="assets/btn-linkedin.svg" height="50" alt="LinkedIn" /></a>
+<a href="https://faideleon.github.io/Portfolio/"><img src="assets/btn-portfolio.svg" width="27%" alt="Portfolio" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/faisal-khan-922282423/"><img src="assets/btn-linkedin.svg" width="27%" alt="LinkedIn" /></a>
